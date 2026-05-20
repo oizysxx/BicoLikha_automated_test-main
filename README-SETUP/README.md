@@ -1,3 +1,4 @@
+ADET: AUTOMATED TEST LAB ACTIVITY | BSIT 3B | Alcayde, Armero, Dayto
 # BicoLikha Automated Testing Setup
 
 ## Prerequisites
